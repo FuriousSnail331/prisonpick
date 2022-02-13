@@ -1,0 +1,14 @@
+main: myprojectt.Plugin
+name: PrisonPick
+version: 1.17.1
+author: someone
+api-version: 1.17
+commands:
+    prisonpick:
+      description: Main Command of my plugin:)
+      usage: idk
+    token:
+        description: g3wrewer
+depend:
+  - Vault
+    

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Users/Juweriah/Documents/buildtool/spigot-1.17.1.jar" sourcepath="D:/Users/Juweriah/Documents/buildtool/Spigot/Spigot-API"/>
+	<classpathentry kind="lib" path="D:/Users/Juweriah/Downloads/Vault.jar" sourcepath="D:/Users/Juweriah/Downloads/Vault-master/Vault-master"/>
+	<classpathentry kind="lib" path="D:/Users/Juweriah/Downloads/treasury-bukkit-1.0.0-e822ba4-RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Users/Juweriah/Downloads/Prison-3.3.0-alpha.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
